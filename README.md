@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0035-search-insert-position) |
 ## Linked List
 |  |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
