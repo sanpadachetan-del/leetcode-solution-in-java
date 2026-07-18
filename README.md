@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0035-search-insert-position) |
 | [1480-running-sum-of-1d-array](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
