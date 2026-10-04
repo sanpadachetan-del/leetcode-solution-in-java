@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,8 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
