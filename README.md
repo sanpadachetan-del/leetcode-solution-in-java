@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/0029-divide-two-integers) |
+| [2235-add-two-integers](https://github.com/sanpadachetan-del/leetcode-solution-in-java/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
